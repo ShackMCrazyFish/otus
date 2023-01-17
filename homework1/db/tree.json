@@ -1,0 +1,57 @@
+{
+  "name": 1,
+  "items": [
+    {
+      "name": 2,
+      "items": [
+        { 
+            "name": 3, 
+            "items": [
+              { "name": 4 }
+            ] 
+        }, 
+        {
+          "name": 5,
+          "items": [
+            { "name": 6 },
+            { "name": 7 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": 8,
+      "items": [
+        {
+          "name": 9,
+          "items": [
+            { 
+              "name": 10,
+              "items": [
+                { "name": 11 },
+                { "name": 12 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": 13,
+      "items": [
+        { 
+          "name": 14,
+          "items": [
+            {
+              "name": 15,
+              "items": [
+                { "name": 16 }
+              ]
+            },
+            { "name": 17 }
+          ] 
+        }
+      ]
+    }
+  ]
+}
